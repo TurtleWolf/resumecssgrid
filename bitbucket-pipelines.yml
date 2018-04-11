@@ -13,6 +13,6 @@ pipelines:
         caches:
           - node
         script: # Modify the commands below to build your repository.
-          - npm install
           - cd css-grid-template
+          - npm install
           - npm test
