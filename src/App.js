@@ -9,6 +9,7 @@ class App extends Component {
         <header className="App-header">
           
           <h1 className="App-title">JonPohlner@gmail.com</h1>
+          <img src="https://app.codeship.com/projects/ce086d20-209f-0136-fda2-1a0f937aee5f/status?branch=master"/>
         </header>
         <div className="container">
             <div className="z-depth-2" alt="image wordings"><img src="img/normal1.jpg"/></div>
