@@ -12,8 +12,8 @@ class App extends Component {
           <img src="https://app.codeship.com/projects/ce086d20-209f-0136-fda2-1a0f937aee5f/status?branch=master"/>
         </header>
         <div className="container">
-            <div className="z-depth-2" alt="image wordings"><img src="img/normal1.jpg"/></div>
-            <div className="vertical z-depth-2" alt="image wordings"><img src="img/vertical1.jpg"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/code_igniter.png"/></div>
+            <div className="vertical z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="horizontal z-depth-2" alt="image wordings"><img src="img/cssGRID/mysql.png"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/mongodb.jpg"/></div>
             <div className="z-depth-2" alt="image wordings"><img src={logo} className="App-logo" alt="logo" /></div>
@@ -33,16 +33,19 @@ class App extends Component {
                         <li><a href="https://twitter.com/JonPohlner?lang=en"><i className="fa fa-twitter" aria-hidden="true"></i> Twitter/JP</a></li>
                         <li><strong><a href="https://www.youtube.com/playlist?list=PLETG2T1KvnioI_uRwEx1-efEI6EpoN_ZR"><i className="fa fa-youtube-play" aria-hidden="true"></i> YouTube/TW</a></strong></li>
                     </ul></div>
-            <div className="z-depth-2" alt="image wordings"><img src="img/normal5.jpg"/></div>
-            <div className="horizontal z-depth-2" alt="image wordings"><img src="img/horizontal2.jpg"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/freecodecamp.png"/></div>
+            <div className="horizontal z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/git.png"/></div>
-            <div className="big z-depth-2" alt="image wordings"><img src="img/big2.jpg"/></div>
+            <div className="big z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/nodejs-logo.png"/></div>
             <div className="horizontal z-depth-2" alt="image wordings"><img src="img/cssGRID/php.png"/></div>
-            <div className="z-depth-2" alt="image wordings"><img src="img/normal8.jpg"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/unity.png"/></div>
             <div className="big z-depth-2" alt="image wordings"><img src="img/cssGRID/cssgrid.png"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="vertical z-depth-2" alt="image wordings"><img src="img/cssGRID/html5.jpg"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>            
         </div>
       </div>
     );
