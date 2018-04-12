@@ -36,7 +36,7 @@ class App extends Component {
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/freecodecamp.png"/></div>
             <div className="horizontal z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/git.png"/></div>
-            <div className="big z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
+            <div className="big z-depth-2" alt="image wordings"><img src="img/cssGRID/code.jpg"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/nodejs-logo.png"/></div>
             <div className="horizontal z-depth-2" alt="image wordings"><img src="img/cssGRID/php.png"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/unity.png"/></div>
@@ -44,7 +44,7 @@ class App extends Component {
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
             <div className="vertical z-depth-2" alt="image wordings"><img src="img/cssGRID/html5.jpg"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
-            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>
+            <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/tddguilty.png"/></div>
             <div className="z-depth-2" alt="image wordings"><img src="img/cssGRID/matrix.gif"/></div>            
         </div>
       </div>
