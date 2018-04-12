@@ -18,3 +18,6 @@ html, body {
     margin: 10px;
     background-image: url("img/cssGRID/bulletinboard.jpg");
 }
+.backcolored {
+background-color: #ffeead;
+}
