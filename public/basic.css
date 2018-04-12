@@ -4,6 +4,7 @@
     align-items: center;
     font-size: .7em;
     color: #ffeead;
+    
 }
 
 .container > div > img {
@@ -15,4 +16,5 @@
 html, body {
     background-color: #ffeead;
     margin: 10px;
+    background-image: url("img/cssGRID/bulletinboard.jpg");
 }
